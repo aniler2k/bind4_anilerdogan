@@ -11,23 +11,79 @@
 	<lastmod>2026-05-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/HBM.jpg</image:loc>
+	<image:title>HBM</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/HBM.webp</image:loc>
+	<image:title>HBM</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibet.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibet.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
 </url>
 <url>
 	<loc>bunnyhopping.org/int_tibet/</loc>
 	<lastmod>2026-05-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibo3.JPG</image:loc>
+	<image:title>tibo3.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibo3.webp</image:loc>
+	<image:title>tibo3.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibo2.JPG</image:loc>
+	<image:title>tibo2.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/tibo2.webp</image:loc>
+	<image:title>tibo2.JPG</image:title>
+	</image:image>
 </url>
 <url>
 	<loc>bunnyhopping.org/int_apo/</loc>
 	<lastmod>2026-05-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/apo%202.jpg</image:loc>
+	<image:title>apo 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/apo%202.webp</image:loc>
+	<image:title>apo 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/abt.jpg</image:loc>
+	<image:title>abt</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/abt.webp</image:loc>
+	<image:title>abt</image:title>
+	</image:image>
 </url>
 <url>
 	<loc>bunnyhopping.org/about/</loc>
 	<lastmod>2026-05-11</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/ae24cf04-b6c3-4321-89ae-37822fb67c73.JPG</image:loc>
+	<image:title>ae24cf04 b6c3 4321 89ae 37822fb67c73.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bunnyhopping.org/img/ae24cf04-b6c3-4321-89ae-37822fb67c73.webp</image:loc>
+	<image:title>ae24cf04 b6c3 4321 89ae 37822fb67c73.JPG</image:title>
+	</image:image>
 </url>
 </urlset>
